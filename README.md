@@ -11,6 +11,7 @@ Occasionally I will make nerdy videos about anything and everything I feel like,
 </p>
 
 ------
-I post all the source files for my videos *(including a write-up explaining the math and any written programs)*. If that sounds super 🔥**awesome**🤯 and 🧠**interesting**🤓 to you, look for the repository with the same name as the video!
+I post all the source files for my videos *(including a write-up explaining the math[^2] and any written programs)*. If that sounds super 🔥**awesome**🤯 and 🧠**interesting**🤓 to you, look for the repository with the same name as the video!
 
-[^1]: citation needed.
+[^1]: Citation needed.
+[^2]: I'm not a mathematician, sorry. I do engineering math :wink:.
