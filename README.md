@@ -4,11 +4,6 @@ Just a bored engineering graduate student who likes to have fun with math and sc
 
 Occasionally I will make nerdy videos about anything and everything I feel like, you should check them out.
 
-
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+<p align="center">
+  <a href="[https://www.drupal.org/](https://www.youtube.com/@dan-whitman)" title="YouTube"><img src="Assets/YouTube_Icon.jpg" width="375" height="120" /></a>
+</p>
