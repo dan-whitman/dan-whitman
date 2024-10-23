@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @dan-whitman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Header image](https://raw.githubusercontent.com/dan-whitman/dan-whitman/master/Assets/Profile_ReadMe.jpg)
+<!-- I created this header in Latex. See the main.tex file to see how! -->
+Just a bored engineering graduate student who likes to have fun with math and science.
 
-<!---
-dan-whitman/dan-whitman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Occasionally I will make nerdy videos about anything and everything I feel like, you should check them out.
+
+
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+
+## ⚡ Skills:
+- Node.js
+- TypeScript
+- NestJS
+- Ethereum
