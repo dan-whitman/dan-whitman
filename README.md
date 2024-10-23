@@ -2,7 +2,7 @@
 <!-- I created this header in Latex. See the main.tex file to see how! -->
 Just a bored engineering graduate student who likes to have fun with math and science.
 
-Occasionally I will make nerdy videos about anything and everything I feel like, you should check them out.
+Occasionally I will make nerdy videos about anything and everything I feel like, you should check them out. Maybe some of them will even be funny.
 
 <p align="center">
   <a href="https://www.youtube.com/@dan-whitman" title="YouTube"><img src="Assets/YouTube_Icon.jpg" width="375" height="120" /></a>
