@@ -28,4 +28,4 @@ I post all the source files for my videos *(including a write-up explaining the 
 [^1]: Citation needed.
 [^2]: I'm an engineer, not a mathematician, so the rigor and elegance of my mathematical gymnastics might not be quite up to par :wink:.
 [^3]: I'm slightly biased to this.
-[&^4]: I'm bad.
+[^4]: I'm bad.
