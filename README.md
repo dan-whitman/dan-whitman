@@ -1,19 +1,19 @@
 ![Header image](https://raw.githubusercontent.com/dan-whitman/dan-whitman/master/assets/Profile_ReadMe.jpg)
-<!-- I created this header in Latex. See the main.tex file to see how! -->
+<!-- I created this header in LaTeX. See the main.tex file to see how! -->
 
 Just a bored engineering graduate student who likes to have fun with math and science!
 
 ------
-Occasionally I will make nerdy videos about anything and everything I feel like, you should check them out. Maybe some of them will even be funny[^1].
+Occasionally, I will make nerdy videos about anything and everything I feel like; you should check them out. Maybe some of them will even be funny[^1].
 
 <p align="center">
   <a href="https://www.youtube.com/@dan-whitman" title="YouTube"><img src="assets/YouTube_Icon.jpg" width="325" height="104" /></a>
 </p>
 
-Oh, I also published a book, and I think it's pretty good[^3]. Check it out on Amazon!
+Oh, I also self-published a book series, and I think they're pretty good[^3]. Check it out on Amazon!
 
 <p align="center">
-  <a href="https://www.amazon.com/Land-Shadow-Flames/dp/1095708082" title="Book"><img src="assets/Amazon_Icon.jpg" width="325" height="104" /></a>
+  <a href="https://www.amazon.com/dp/B087JC8968?binding=paperback&ref=dbs_m_mng_rwt_sft_tpbk_tkin&qid=1755606887&sr=8-1" title="Books"><img src="assets/Amazon_Icon.jpg" width="325" height="104" /></a>
 </p>
 
 If you're feeling brave, play me in chess[^4]!
