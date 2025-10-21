@@ -1,16 +1,16 @@
 ![Header image](https://raw.githubusercontent.com/dan-whitman/dan-whitman/master/assets/Profile_ReadMe.jpg)
 <!-- I created this header in LaTeX. See the main.tex file to see how! -->
 
-Just a bored engineering graduate student who likes to have fun with math and science!
+Just a bored engineering graduate student who likes to have fun with math and science [^1]! Posting all of the files for my projects (and videos) here so that you can enjoy them too! If that sounds super 🔥**awesome**🤯 and 🧠**interesting**🤓, feel free to browse my repos!
 
 ------
-Occasionally, I will make nerdy videos about anything and everything I feel like; you should check them out. Maybe some of them will even be funny[^1].
+Occasionally, I will make nerdy videos about anything and everything I feel like; you should check them out. Maybe some of them will even be funny[^2].
 
 <p align="center">
   <a href="https://www.youtube.com/@dan-whitman" title="YouTube"><img src="assets/YouTube_Icon.jpg" width="325" height="104" /></a>
 </p>
 
-Oh, I also self-published a book series, and I think they're pretty good[^3]. Check it out on Amazon!
+Oh, I also self-published a book series, and I think it's pretty good[^3]. Check it out on Amazon!
 
 <p align="center">
   <a href="https://www.amazon.com/dp/B087JC8968?binding=paperback&ref=dbs_m_mng_rwt_sft_tpbk_tkin&qid=1755606887&sr=8-1" title="Books"><img src="assets/Amazon_Icon.jpg" width="325" height="104" /></a>
@@ -23,9 +23,7 @@ If you're feeling brave, play me in chess[^4]!
 </p>
 
 ------
-I post all the source files for my videos *(including a write-up explaining the math[^2] and any written programs)*. If that sounds super 🔥**awesome**🤯 and 🧠**interesting**🤓 to you, look for the repository with the same name as the video!
-
-[^1]: Citation needed.
-[^2]: I'm an engineer, not a mathematician, so the rigor and elegance of my mathematical gymnastics might not be quite up to par :wink:.
+[^1]: I'm an engineer, not a mathematician, so the rigor and elegance of my mathematical gymnastics might not be quite up to par :wink:.
+[^2]: Citation needed.
 [^3]: I'm slightly biased to this.
 [^4]: I'm bad.
