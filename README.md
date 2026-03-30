@@ -7,7 +7,7 @@ Just an engineer who likes to have fun with math[^1] and whatever else! Posting 
 Oh, I also self-published a book series, and I think it's pretty good[^2]. Check out my Linktree to see more!
 
 <p align="center">
-  <a href="https://linktr.ee/daniel.whitman.author" title="Books"><img src="assets/Amazon_Icon.jpg" width="325" height="104" /></a>
+  <a href="https://linktr.ee/daniel.whitman.author" title="Books"><img src="assets/Linktree_Icon.png" width="325" height="170" /></a>
 </p>
 
 ------
